@@ -69,7 +69,7 @@
     "pug": "^3.0.2",
     "sudo-prompt": "^9.2.1",
     "systeminformation": "^5.5.0",
-    "ubuntu-pastebin": "^1.0.1",
+    "ubuntu-pastebin": "^1.0.2",
     "winston": "^3.3.3",
     "yaml": "^2.0.0-1"
   },
